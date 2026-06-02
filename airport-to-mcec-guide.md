@@ -64,7 +64,7 @@ Chuyến quốc tế đáp ở **Terminal 2 (T2)**. Trình tự:
 
 **Cách đi:**
 1. Ra khỏi sảnh đến, tìm biển **"SkyBus"** (kerbside, ngay bên ngoài T1/T3/T4 — đi bộ vài phút từ T2 quốc tế, có biển chỉ dẫn rõ).
-2. Mua vé tại quầy, máy, hoặc app SkyBus / online: **one-way 25,90 AUD**, **return 43,40 AUD** (vé khứ hồi rẻ hơn, dùng được trong 90 ngày).
+2. Mua vé tại quầy, máy, hoặc app SkyBus / online. **Giá adult one-way ~24,90–25,90 AUD; return ~41,70–43,40 AUD** — *hai trang skybus.com.au lệch nhau chút ít (xem ghi chú cuối bài), mua online thường rẻ hơn*. Vé có hiệu lực **12 tháng** từ ngày mua.
 3. Lên xe (không cần đặt chỗ, xe chạy **mỗi ~10 phút**, từ 4:00 sáng đến 1:00 đêm). Có khoang để hành lý lớn.
 4. Xe chạy thẳng tới **Southern Cross Station** (~30–45 phút tùy giao thông).
 
@@ -103,7 +103,7 @@ Chuyến quốc tế đáp ở **Terminal 2 (T2)**. Trình tự:
 2. Ra bến **bus 901 (SmartBus)** — Bay 17, tầng trệt khu T4 Car Park.
 3. Bus 901 → ga **Broadmeadows**, đổi sang **train Craigieburn line** → **Southern Cross Station**.
 4. Từ Southern Cross đi tiếp tới MCEC như Phương án A.
-5. Tổng chi phí **5,70 AUD** (vé Myki 2 giờ Zone 1+2, giá full) — và **chỉ ~2,85 AUD** nếu áp dụng **giảm 50% toàn bang** (từ 01/06/2026 đến 01/01/2027). Tổng thời gian **80–100 phút**.
+5. Tổng chi phí **5,70 AUD** (vé Myki 2 giờ Zone 1+2, giá full) — và **chỉ ~2,85 AUD** nhờ **giảm 50% toàn bang Victoria** (áp dụng từ 01/06/2026, đã xác minh trên transport.vic.gov.au). Tổng thời gian **80–100 phút**. *Lưu ý: giảm 50% KHÔNG áp dụng cho SkyBus.*
 
 > Phương án này nhiều bước, dễ rối cho người lần đầu → chỉ chọn khi tự tin.
 
@@ -165,4 +165,17 @@ Bạn vừa xuống sân bay MEL
 
 ---
 
-*Xem thêm [Báo cáo toàn diện tham dự SIGIR 2026](./SIGIR-2026-Melbourne-Report.md) để biết chi tiết khách sạn, visa, lệ phí, thời tiết.*
+## 8. Nhật ký xác minh (verify 02/06/2026)
+
+Các con số giao thông trong bài đã được kiểm chứng bằng web research:
+
+- **SkyBus** ⚠️: trang `skybus.com.au/fares` ghi adult one-way **$25,90** / return **$43,40**; trang `skybus.com.au/melbourne-city-express/fares` ghi one-way **$24,90** / return online **$41,70** (≈$20,85/lượt). Vé hiệu lực **12 tháng**. Nên xem giá chính xác khi mua.
+- **Taxi** ~55–95 AUD; **Uber** ~50–75 AUD (có thể surge lên 90–100 khi mưa/đông) — nguồn easymaxicabs, melbournecabb, APM fixed price (2026).
+- **Myki giảm 50% toàn bang** từ 01/06/2026 — xác nhận trên transport.vic.gov.au ("Public transport now half price for everyone"). Daily cap full $11,40 → $5,70.
+- **Bus 901 SmartBus** chạy airport↔Broadmeadows (mỗi ~30 phút) — transport.vic.gov.au route 901; Rome2Rio.
+- **Melbourne Airport Rail** chưa hoạt động 2026 (target ~2029, một số nguồn muộn hơn) — dù sao **tháng 7/2026 vẫn chưa có tàu thẳng**.
+- **Visa Subclass 600 Business Visitor = AUD 200** — xác nhận trên immi.homeaffairs.gov.au.
+
+---
+
+*Xem thêm [Báo cáo toàn diện tham dự SIGIR 2026](./SIGIR-2026-Melbourne-Report.md) để biết chi tiết khách sạn, visa, lệ phí, thời tiết — bản báo cáo cũng đã có phí đăng ký SIGIR chính thức bằng AUD (verify 02/06/2026).*
